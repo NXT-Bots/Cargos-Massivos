@@ -21,6 +21,10 @@ O bot demora um pouco para adicionar o cargo em todos os membros dependendo da q
 
 É importante que o bot tenha permissão de Administrador dentro do servidor ou de Gerenciamento de Cargos.
 
+O cargo do bot deve estar acima do cargo que vai ser adicionado, caso contrário o bot não funcionará e irá parar a execução.
+
 Também é importante lembrar de ligar todas as intents do bot pelo painel de desenvolvedor do discord, sem elas o bot não funciona.
 
-A equipe da NXT Bots não se resposábiliza pelo mal uso do código ou uso do tal para intensões maliciosas. Aproveite!
+A equipe da NXT Bots não se resposábiliza pelo mal uso do código ou do uso de tal para intensões maliciosas. Aproveite!
+
+Feito com ❤ pela equipe da NXT Bots.
